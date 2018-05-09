@@ -1,0 +1,3 @@
+C:/Users/zhangye/CLionProjects/loccheck/cmake-build-debug/CMakeFiles/loccheck.dir
+C:/Users/zhangye/CLionProjects/loccheck/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/zhangye/CLionProjects/loccheck/cmake-build-debug/CMakeFiles/rebuild_cache.dir
